@@ -3,10 +3,10 @@
 *software developer & lifelong learner*
 
 ##### BIO
-<sub>
-- vp, engineering [@stellaralgo](https://github.com/stellaralgo) with a big focus on product, understanding the user needs, goals, and pain points
+
+- <sub> vp, engineering [@stellaralgo](https://github.com/stellaralgo) with a big focus on product, understanding the user needs, goals, and pain points </sub>
 - 
-</sub>
+
 
 ##### PERSONAL PROJECTS
 <sub>
