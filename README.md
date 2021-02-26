@@ -4,10 +4,10 @@
 
 ##### BIO
 <sub>
-- vp, engineering [@stellaralgo](https://github.com/stellaralgo) with a big focus on product, understanding the user needs, goals, and pain points
-- tech & startup addict
-- sports fan
-- car enthusiast
+- vp, engineering [@stellaralgo](https://github.com/stellaralgo) with a big focus on product, understanding the user needs, goals, and pain points <br/>
+- tech & startup addict <br/>
+- sports fan <br/>
+- car enthusiast <br/>
 </sub>
 
 
