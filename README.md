@@ -1,5 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=jlai403)
-
 ### Hello – I'm Joey Lai. 👋
 
 *software developer & lifelong learner*
