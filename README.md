@@ -5,8 +5,10 @@
 ##### BIO
 <sub>vp, engineering [@stellaralgo](https://github.com/stellaralgo) with a big focus on product, understanding the user needs, goals, and pain points</sub>
 
-##### TECH
+##### PERSONAL PROJECTS
+<sub>f1 game telemetry visualizer</sub>
 
+##### TECH
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -24,8 +26,6 @@
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-%232088FF?style=flat-square&logo=Github-Actions&logoColor=ffffff)
 ![TravisCI](https://img.shields.io/badge/-TravisCI-%233EAAAF?style=flat-square&logo=Travis-CI&logoColor=ffffff)
 
-##### PERSONAL PROJECTS
-<sub>f1 game telemetry visualizer</sub>
 
 <!--
 **jlai403/jlai403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
