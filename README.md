@@ -3,7 +3,7 @@
 *software developer & lifelong learner*
 
 ##### BIO
-vp, engineering [@stellaralgo](https://github.com/stellaralgo) with a big focus on product, understanding the user needs, goals, and pain points
+<sub>vp, engineering [@stellaralgo](https://github.com/stellaralgo) with a big focus on product, understanding the user needs, goals, and pain points</sub>
 
 ##### TECH
 
@@ -25,7 +25,7 @@ vp, engineering [@stellaralgo](https://github.com/stellaralgo) with a big focus 
 ![TravisCI](https://img.shields.io/badge/-TravisCI-%233EAAAF?style=flat-square&logo=Travis-CI&logoColor=ffffff)
 
 ##### PERSONAL PROJECTS
-- f1 game telemetry visualizer
+<sub>f1 game telemetry visualizer</sub>
 
 <!--
 **jlai403/jlai403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
