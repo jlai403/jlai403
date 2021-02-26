@@ -2,17 +2,17 @@
 
 *software developer & lifelong learner*
 
-##### BIO
+#### BIO
 - **vp, engineering** [@stellaralgo](https://github.com/stellaralgo) with a big focus on product, understanding the user needs, goals, and pain points
 - tech & startup addict
 - sports fan
 - car enthusiast
 
 
-##### PERSONAL PROJECTS
+#### PERSONAL PROJECTS
 - f1 game telemetry visualizer
 
-##### TECH
+#### TECH
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
