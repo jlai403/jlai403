@@ -27,7 +27,7 @@ vp, engineering [@stellaralgo](https://github.com/stellaralgo) with a big focus 
 ![TravisCI](https://img.shields.io/badge/-TravisCI-%233EAAAF?style=flat-square&logo=Travis-CI&logoColor=ffffff)
 
 ##### PERSONAL PROJECTS
-– f1 game telemetry visualizer
+- f1 game telemetry visualizer
 
 <!--
 **jlai403/jlai403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
